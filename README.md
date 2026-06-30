@@ -6,7 +6,7 @@
 This project demonstrates Linux interrupt handling using:
 - request_irq()
 - IRQF_SHARED
-- Interrupt Service Routine (ISR)
+- Interrupt Service Routine (ISR) (Top Half)
 - Workqueue (Bottom Half)
 - Deferred Processing
 - Verification using /proc/interrupts and dmesg
