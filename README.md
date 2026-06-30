@@ -1,6 +1,6 @@
 # Linux Interrupt Handling Framework
 
-## ISR, Shared IRQ, Top Half & Bottom Half (Workqueue) Implementation
+## Hands-on Linux Kernel Interrupt Handling using ISR, Shared IRQ, Workqueues, verification, debugging, and device driver development best practices.
 
 ### Overview
 This project demonstrates Linux interrupt handling using:
